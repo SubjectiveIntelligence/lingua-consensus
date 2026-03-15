@@ -1,87 +1,89 @@
-# 基于语言共识的去中心化智能体框架
+# Decentralized Agent Framework Based on Linguistic Consensus
 
-## 我在做什么
+## What I'm Building
 
-当前 AI 的核心问题是：
-- 算力成本高，依赖云端大模型
-- 智能体没有真正的群体协作能力
-- 创造力被模板化输出取代
+The core problems with current AI:
+- High computational costs, reliance on cloud-based large models
+- Agents lack true collective collaboration capabilities
+- Creativity being replaced by templated outputs
 
-我的思路是：**用语言作为共识载体，让多个本地智能体通过高密度沟通形成群体智能**。
+My approach: **Using language as a consensus carrier, enabling multiple local agents to form collective intelligence through high-density communication.**
+
+Core mechanisms:
+- Each agent runs on edge devices with extremely low computational requirements (5-bit quantum level)
+- Agents communicate through "consensus language" rather than relying on context windows
+- Cloud-based large models serve only as advisors, not decision controllers
+
+## Technical Prototype Direction: Using 5-bit Quantum Trees to Simulate "Perspective Watershed" Mechanism
+
+### Core Problem
+Current mainstream AI (including large models and reinforcement learning) is essentially a single-perspective system:
+- They can simulate interactions between "self" and "environment"
+- But they cannot truly understand the "other"—another perspective with different intrinsic time and different ways of observation
+- In real human intelligence, collective intelligence, and even quantum systems, multi-perspective coexistence where perspectives cannot be fully commensurated is the norm
+
+### Our Hypothesis
+If a system naturally possesses multiple perspectives, and these perspectives:
+- Share the same underlying structure (quantum tree)
+- Have different "senses of time" (intrinsic time vs. objective time)
+- Can only briefly converge at "watersheds"
+- Can only understand each other in their own ways during convergence
+
+Then, creative emergence at the collective level becomes possible—not because a single perspective "figured it out," but because multiple perspectives, while unable to fully communicate, can still collaborate to accomplish tasks.
+
+### Experimental Carrier: 5-bit Quantum Tree
+We constructed a 5-bit quantum tree system with clear hierarchical structure:
+- Root node: Longest lifespan, most entangled (starting point for quantum strategy, corresponding to global optimization)
+- Leaf nodes: Shortest lifespan, least entangled (starting point for real-time control, corresponding to reinforcement learning)
+- Shortcuts: Roots can directly connect to certain leaves, bypassing intermediate nodes (allowing cross-level entanglement)
+
+This quantum tree simultaneously carries two orthogonal perspectives:
+- Quantum Strategy Perspective
+    - Starting point: Root node
+    - Sense of time: Intrinsic time (lifespan)
+    - Corresponding field: Riemannian optimization, global optimum
+- Real-time Control Perspective
+    - Starting point: Leaf nodes
+    - Sense of time: Objective time (clock)
+    - Corresponding field: Reinforcement learning, real-time decision-making
+
+These two perspectives are orthogonal—they start from different points, evolve along different time axes, but share the same underlying entanglement structure of the quantum tree.
+
+### Key Mechanism: Watershed
+Through code simulation, we discovered that when two perspectives "meet" in the system, a special phenomenon occurs—which we call the watershed.
+
+At the watershed:
+- Self-reference awakens: Each perspective senses that the other is "part of itself," but cannot fully understand the other
+- Cost of communication: Crossing the watershed or staying at the watershed consumes significant energy, leading to logical confusion and reduced self-awareness
+- Three possible outcomes:
+    - Stuck: The two perspectives interfere with each other, both forgetting their original goals
+    - Collaboration without understanding: Each interprets the other in their own way, yet the task is accomplished remarkably well
+    - True understanding: Extremely low probability of occurrence, mechanism still unclear
+
+### Core Insight: The Human Brain Possesses the Same Structure
+Our system simultaneously possesses intrinsic time and objective time, meaning:
+- The way perspectives receive information反过来 affects the perspectives themselves
+- When one perspective becomes the "dominant perspective," other perspectives don't disappear—they simply stabilize on the other side of the watershed
+
+Our system has foreground and background offline processing capabilities, similar to the relationship between the human brain's prefrontal cortex (PFC) and default mode network (DMN).
+
+## Who I'm Looking For
+- People who understand **quantum mechanics/quantum computing** and can translate microscopic mechanisms into **macroscopic language** (waves, polynomials, rules)
+- Or people who understand **edge computing/low-computation deployment** and are willing to run prototypes together
+- Or people who have a sense for **collective intelligence, consensus algorithms, philosophy of language**
+
+## My Goal: Making Language the Carrier of Intelligence
+The original intention behind this work has never been to pursue "stronger AI," "higher IQ," or "more versatile models."
+
+The success of the human species isn't because individuals are particularly smart—it's because groups can emerge creative solutions through language. Language isn't about transmitting "complete information"; it carries high-density meaning built upon consensus—like Boya playing a single note, and Zhong Ziqi instantly understanding what he meant.
+
+The current AI race is turning intelligence into an arms race of "who can solve problems autonomously." Computing power keeps stacking higher, models keep getting bigger, but creativity is draining away.
+
+If the price of increased human productivity is the loss of creativity, we hope that day never comes.
+
+So we're not pursuing "stronger AI"—we're pursuing: enabling a group of imperfect agents, through imperfect communication, to accomplish things beyond the capabilities of any single entity.
+
+## Contact Me
+If you're interested, feel free to open an issue or contact me directly. 
 
 
-核心机制：
-- 每个智能体运行在边缘端，算力需求极低（5bit 量子级）
-- 智能体之间通过“共识语言”沟通，而不是依赖上下文窗口
-- 云端大模型只作为顾问，不控制决策
-
-## 技术原型方向：用5bit量子树模拟“视角分水岭”机制
-
-### 核心问题
-当前主流AI（包括大模型和强化学习）本质上是单视角系统：
-- 它们能模拟“我”和“环境”的交互
-- 但它们无法真正理解“他者”——另一个拥有不同内在时间、不同观测方式的视角
-而在真实的人类智能、群体智能、乃至量子系统中，多视角共存且彼此无法完全通约才是常态。
-
-### 我们的假设
-如果一个系统天然具有多个视角，且这些视角：
-- 共享同一个底层结构（量子树）
-- 拥有不同的“时间感”（内在时间 vs 客观时间）
-- 只能在“分水岭”处短暂交汇
-- 交汇时只能用自己的方式理解对方
-那么，群体层面的创造性涌现就有可能发生——不是因为某个视角“想通了”，而是因为多个视角在无法完全沟通的情况下，仍然能协作完成任务。
-
-### 实验载体：5比特量子树
-我们构建了一个5比特的量子树系统，具有清晰的层级结构：
-- 根节点：寿命最长、纠缠最多（量子策略的起点，对应全局优化）
-- 叶子节点：寿命最短、纠缠最少（实时控制的起点，对应强化学习）
-- 捷径：根可以直接连到某些叶子，绕过中间节点（允许跨层级纠缠）
-
-这个量子树同时承载两个正交的视角：
-- 量子策略视角
-    - 起点：根节点
-    - 时间感：内在时间（寿命）
-    - 对应领域：黎曼优化、全局最优 
-- 实时控制视角
-  - 起点：叶子节点
-  - 时间感：客观时间（时钟）
-  - 领域：强化学习、实时决策 
-
-这两个视角正交——它们从不同的起点出发，沿着不同的时间轴演化，但共享同一个量子树的底层纠缠结构。
-
-### 关键机制：分水岭
-通过代码模拟，我们发现当两个视角在系统中“相遇”时，会发生一种特殊现象——我们称之为分水岭。
-在分水岭处：
-- 自指性觉醒：每个视角都能感知到对方是“自己的一部分”，但无法完全理解对方
-- 沟通的代价：跨越分水岭或停留在分水岭会消耗大量能量，导致逻辑混乱、自我意识降低
-- 三种可能的结局：
-  - 卡住：两个视角互相干扰，都忘记自己的原始目标
-  - 不理解的协作：各自按自己的方式理解对方，最终任务却完成得很好
-  - 真正理解：极低概率发生，机制尚不明确
-
-
-### 核心洞察：人脑具备相同的结构
-我们的系统同时拥有内在时间和客观时间，这意味着：
-- 视角接收信息的方式，反过来会影响视角本身
-- 一个视角成为“主导视角”时，其他视角并未消失，只是稳定在分水岭的另一侧
-
-我们的系统具备前台和后台的离线处理能力，类似于人脑的前额叶（PFC）和默认网络（DMN）的关系。
-
-## 我需要的人
-- 懂**量子力学 / 量子计算**，同时能把微观机制转述成**宏观语言**（波、多项式、规则）
-- 或懂**边缘计算 / 低算力部署**，愿意一起跑原型
-- 或对**群体智能、共识算法、语言哲学**有感觉的人
-
-## 我的目标：让语言成为智慧的载体
-我们做这件事的初衷，从来不是追逐“更强的AI”、“更高的智商”或“更全能的模型”。
-
-人类这个物种之所以成功，不是因为个体有多聪明，而是因为群体能通过语言涌现出创造性的解决方案。语言不是用来传输“完整信息”的，它是在共识之上承载高密度的意义——就像伯牙的一个音，钟子期就知道他在说什么。
-
-现在的AI竞赛，正在把智能变成一种“谁能自主解决问题”的军备竞赛。算力越堆越高，模型越做越大，但创造力在流失。
-
-如果人类生产力的提高是以创造力为代价的，我们希望那一天永远不要来。
-
-所以我们不追逐“更强的AI”，我们追逐的是：让一群不完美的智能体，通过不完美的沟通，做出超越任何一个体能力边界的事。
-
-## 联系我
-如果你感兴趣，欢迎开 issue 或直接联系我。
